@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5296277477801184235}
   - component: {fileID: 4254451381686930679}
   m_Layer: 0
-  m_Name: Cabbage
+  m_Name: TomatoSlices
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29,7 +29,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 4727637493968688740}
+  - {fileID: 346508836965206950}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -45,79 +45,79 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbe088f21c2f2ac4e9e28b5ad369a132, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  kitchenObjectSO: {fileID: 11400000, guid: 832e5540e98e09c40b30e6fef923db06, type: 2}
---- !u!1001 &8462824775787135204
+  kitchenObjectSO: {fileID: 11400000, guid: 2c991a5fad36b324da4c06532ca1ddf8, type: 2}
+--- !u!1001 &3469184553457868070
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 5296277477801184235}
     m_Modifications:
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3812876574508226177, guid: 259702638197d9246bfc6f2b0fe88c09,
+    - target: {fileID: 3812876574508226177, guid: fb403d1efda6baf4190c507841617408,
         type: 3}
       propertyPath: m_Name
-      value: Cabbage_Visual
+      value: TomatoSlices_Visual
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 259702638197d9246bfc6f2b0fe88c09, type: 3}
---- !u!4 &4727637493968688740 stripped
+  m_SourcePrefab: {fileID: 100100000, guid: fb403d1efda6baf4190c507841617408, type: 3}
+--- !u!4 &346508836965206950 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 3812876574508226176, guid: 259702638197d9246bfc6f2b0fe88c09,
+  m_CorrespondingSourceObject: {fileID: 3812876574508226176, guid: fb403d1efda6baf4190c507841617408,
     type: 3}
-  m_PrefabInstance: {fileID: 8462824775787135204}
+  m_PrefabInstance: {fileID: 3469184553457868070}
   m_PrefabAsset: {fileID: 0}
